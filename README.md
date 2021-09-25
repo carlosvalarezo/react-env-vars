@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This project shows how to pass ENV VARS to a React app
 
 ## Available Scripts
 
